@@ -1,4 +1,4 @@
-CS 162 Group Repository
+PintOS 
 =======================
 
-This repository contains code for CS 162 group projects.
+This repository contains all the code for PintOSs.
